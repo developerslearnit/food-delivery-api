@@ -1,0 +1,13 @@
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\FoodDelivery.Interfaces.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\FoodDelivery.Interfaces.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\obj\Debug\FoodDelivery.Interfaces.csprojResolveAssemblyReference.cache
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\obj\Debug\FoodDelivery.Interfaces.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\obj\Debug\FoodDelivery.Interfaces.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\obj\Debug\FoodDelivery.Interfaces.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\FoodDelivery.ViewModels.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\FoodDelivery.ViewModels.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\FoodDelivery.Data.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\EntityFramework.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\FoodDelivery.Data.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\FoodDelivery.Data.dll.config
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Interfaces\bin\Debug\EntityFramework.xml

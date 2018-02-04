@@ -1,0 +1,11 @@
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\bin\Debug\FoodDelivery.Data.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\bin\Debug\FoodDelivery.Data.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\obj\Debug\FoodDelivery.Data.csprojResolveAssemblyReference.cache
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\obj\Debug\FoodDelivery.Data.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\obj\Debug\FoodDelivery.Data.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\obj\Debug\FoodDelivery.Data.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\bin\Debug\FoodDelivery.Data.dll.config
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\bin\Debug\EntityFramework.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\bin\Debug\EntityFramework.xml
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Data\bin\Debug\EntityFramework.SqlServer.xml

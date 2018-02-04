@@ -1,0 +1,6 @@
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Common\bin\Debug\FoodDelivery.Common.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Common\bin\Debug\FoodDelivery.Common.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Common\obj\Debug\FoodDelivery.Common.csprojResolveAssemblyReference.cache
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Common\obj\Debug\FoodDelivery.Common.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Common\obj\Debug\FoodDelivery.Common.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.Common\obj\Debug\FoodDelivery.Common.pdb

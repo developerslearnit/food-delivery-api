@@ -1,0 +1,6 @@
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.ViewModels\bin\Debug\FoodDelivery.ViewModels.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.ViewModels\bin\Debug\FoodDelivery.ViewModels.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.ViewModels\obj\Debug\FoodDelivery.ViewModels.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.ViewModels\obj\Debug\FoodDelivery.ViewModels.dll
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.ViewModels\obj\Debug\FoodDelivery.ViewModels.pdb
+C:\dev\WebApp\API\FoodDelivery\FoodDelivery.ViewModels\obj\Debug\FoodDelivery.ViewModels.csprojResolveAssemblyReference.cache
